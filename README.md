@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dishonestmercy
 - 👀 I’m interested in datascience
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on beginner projects
+- 💞️ I’m looking to collaborate on beginner projects and communities 
 - 📫 How to reach me dishonestmercy@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: data is lit.
